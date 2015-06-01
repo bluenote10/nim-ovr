@@ -1,5 +1,5 @@
 [Package]
-name          = "nim-ovr"
+name          = "libovr"
 version       = "0.1.0"
 author        = "Fabian Keller"
 description   = "Nim bindings for libOVR (Oculus Rift)"
